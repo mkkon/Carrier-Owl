@@ -3,14 +3,14 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        gan: 3
-        recommend: 3
-        embedding: 3
-        search: 3
-        vision: 3
-        graph: 3
-        image: 3
+        gan: 5
+        recommend: 5
+        embedding: 5
+        search: 5
+        vision: 5
+        graph: 5
+        image: 5
 
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 10
